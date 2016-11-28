@@ -1,0 +1,6 @@
+function test () {
+	echo 'hello git';
+}
+function test () {
+	echo 'hello git';
+}
